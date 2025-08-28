@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pierre Iaccarino (Piairre)
 
-📍 Bordeaux, France 🇫🇷 | 25 y/o
+📍 Bordeaux, France 🇫🇷 | 26 y/o
 
 💻 Backend Developer | Focus: **API Platform**  
 🚀 Open-source enthusiast | Always learning & building
